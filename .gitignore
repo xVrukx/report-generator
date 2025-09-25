@@ -1,0 +1,11 @@
+.venv
+image
+madoka-python
+format.py
+madoka-0.7.1-cp312-cp312-win_amd64.whl
+madoka-wheel.zip
+main.py
+Phi-3-mini-4k-instruct-q4.gguf
+test.py
+scrap.py
+search.py
