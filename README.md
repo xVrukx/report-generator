@@ -1,3 +1,5 @@
+Report Generator
+
 Generates a tight search query with your local Phi model.
 
 Searches DuckDuckGo and saves the top 10 links.
