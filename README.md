@@ -1,4 +1,4 @@
-Report Generator
+#Report Generator
 
 Generates a tight search query with your local Phi model.
 
